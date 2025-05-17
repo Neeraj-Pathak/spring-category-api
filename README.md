@@ -70,8 +70,7 @@ After running the app, go to: `http://localhost:8080/h2-console`
 
 ---
 
-## 📸 Screenshots (Optional)
-Add screenshots of Postman requests and H2 console output here.
+## 📸 Screenshots
 POST.
 ![Post](https://github.com/user-attachments/assets/620a0fd1-e5a4-4807-b15c-6c04d94cd41b)
 GET.
